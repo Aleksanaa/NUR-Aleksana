@@ -22,4 +22,5 @@
   gvim-lily = pkgs.callPackage ./pkgs/gvim-lily { };
   neovim-remote-go = pkgs.callPackage ./pkgs/neovim-remote-go { };
   yofi = pkgs.callPackage ./pkgs/yofi { };
+  fcitx5-pinyin-cedict = pkgs.callPackage ./pkgs/fcitx5-pinyin-cedict { };
 }
